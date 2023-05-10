@@ -2,7 +2,7 @@
 
 #include "rabin_karp.h"
 #include "z_algorithm.h"
-
+// random text
 std::string text
 {
     "Colors bounced around in her head."
