@@ -1,0 +1,3 @@
+/home/adilet/CLionProjects/AlgorithmsProject/cmake-build-debug/CMakeFiles/AlgorithmsProject.dir
+/home/adilet/CLionProjects/AlgorithmsProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adilet/CLionProjects/AlgorithmsProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
